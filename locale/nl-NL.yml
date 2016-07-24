@@ -458,7 +458,7 @@ warps:
   signRemoved: "Je warp bordje is verwijderd!"
   success: "Warp sign succesvol geplaatst!"
   title: "Eiland warps"
-  warpTip: "Maak een warp sign door [WELCOME] op de top te schrijven."
+  warpTip: "Maak een warp sign door [WELCOME] bovenaan te schrijven."
   warpToPlayersSign: "Aan het warpen naar <player>'s warp."
   warpsAvailable: "De volgende warps zijn beschikbaar:"
   welcomeLine: "[WARP]"
